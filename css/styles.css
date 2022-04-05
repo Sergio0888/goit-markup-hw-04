@@ -20,11 +20,8 @@ body {
     --brandcolortwo: #2196f3;
 }
 .container {
-    max-width: 1200px;
+    max-width: 1170px;
     margin: 0 auto;
-}
-.container-size {
-    width: 1170px;
 }
 .section {
     padding: 94px 60px;
